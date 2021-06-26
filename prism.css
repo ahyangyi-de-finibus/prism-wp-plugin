@@ -1,5 +1,5 @@
-/* PrismJS 1.15.0
-http://localhost/prism/download.html#themes=prism-de-finibus&languages=markup+css+clike+javascript+abap+actionscript+ada+apacheconf+apl+applescript+c+arff+asciidoc+asm6502+csharp+autohotkey+autoit+bash+basic+batch+bison+brainfuck+bro+cpp+aspnet+arduino+coffeescript+clojure+ruby+csp+css-extras+d+dart+diff+django+docker+eiffel+elixir+elm+markup-templating+erlang+fsharp+flow+fortran+gedcom+gherkin+git+glsl+gml+go+graphql+groovy+less+handlebars+haskell+haxe+http+hpkp+hsts+ichigojam+icon+inform7+ini+io+j+java+jolie+json+julia+keyman+kotlin+latex+markdown+liquid+lisp+livescript+lolcode+lua+makefile+crystal+erb+matlab+mel+mizar+monkey+n4js+nasm+nginx+nim+nix+nsis+objectivec+ocaml+opencl+oz+parigp+parser+pascal+perl+php+php-extras+sql+powershell+processing+prolog+properties+protobuf+scss+puppet+pure+python+q+qore+r+jsx+typescript+renpy+reason+rest+rip+roboconf+textile+rust+sas+sass+stylus+scala+scheme+smalltalk+smarty+plsql+soy+pug+swift+yaml+tcl+haml+tt2+twig+tsx+vbnet+velocity+verilog+vhdl+vim+visual-basic+wasm+wiki+xeora+xojo+xquery+tap&plugins=line-numbers */
+/* PrismJS 1.23.0
+http://127.0.0.1/prism/download.html#themes=prism-de-finibus&languages=markup+css+clike+javascript+abap+actionscript+ada+apacheconf+apl+applescript+arduino+arff+asciidoc+aspnet+asm6502+autohotkey+autoit+bash+basic+batch+bison+brainfuck+bro+c+csharp+cpp+clojure+coffeescript+csp+crystal+css-extras+d+dart+diff+django+docker+eiffel+elixir+elm+erb+erlang+fsharp+flow+fortran+gml+gedcom+gherkin+git+glsl+go+graphql+groovy+haml+handlebars+haskell+haxe+http+hpkp+hsts+ichigojam+icon+inform7+ini+io+j+java+jolie+json+julia+keyman+kotlin+latex+less+liquid+lisp+livescript+lolcode+lua+makefile+markdown+markup-templating+matlab+mel+mizar+monkey+n4js+nasm+nginx+nim+nix+nsis+objectivec+ocaml+opencl+oz+parigp+parser+pascal+perl+php+php-extras+plsql+powershell+processing+prolog+properties+protobuf+pug+puppet+pure+python+q+qore+r+jsx+tsx+reason+renpy+rest+rip+roboconf+ruby+rust+sas+sass+scss+scala+scheme+smalltalk+smarty+soy+sql+stylus+swift+tap+tcl+tt2+textile+twig+typescript+vbnet+velocity+verilog+vhdl+vim+visual-basic+wasm+wiki+xeora+xojo+xquery+yaml&plugins=line-numbers */
 /**
  * prism.js De finibus theme.
  * Based on Coy theme for JavaScript, CoffeeScript, CSS and HTML by Tim  Shedor
@@ -227,7 +227,6 @@ pre[class*="language-"].line-numbers > code {
 }
 
 	.line-numbers-rows > span {
-		pointer-events: none;
 		display: block;
 		counter-increment: linenumber;
 	}
