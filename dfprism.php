@@ -2,7 +2,7 @@
 /*
 * Plugin Name: Prism for De finibus
 * Description: Add a customized subset of Prism to my page
-* Version: 1.5
+* Version: 1.6
 * Author: Yi Yang
 * Author URI: https://blog.ahyangyi.org
 */
